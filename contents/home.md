@@ -1,20 +1,17 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/Ye-Zhangqian-github-blue?logo=github)](https://github.com/Ye-Zhangqian)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Doctor degree in Landscape Architecture at the Department of Landscape Architecture, School  of Architecture, Tsinghua University, Beijing 100084, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>yezq20@tsinghua.org.cn</code>  
+<code>yezq24@mails.tsinghua.edu.cn</code>
+<code>yezhangqian@qq.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Tsinghua University**, Doctor in Landscape Architecture (2024 – 2029)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Tsinghua University**, Bachelor of Engineering (2020 – 2024)  
+• GPA: 3.9/4.0 (2/7)
 
 #### Research Interests  
-XX, XX, XX, XX.
+Protected Area, Landscape Architecture, National Park.

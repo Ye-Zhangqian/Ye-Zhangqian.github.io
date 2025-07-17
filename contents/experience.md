@@ -1,21 +1,25 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
-
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+### **累计志愿工作时长**  
+**172.5小时 | 北京**  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **清华大学“双肩挑”学生政治辅导员**  
+**2024年8月 – 至今 | 清华大学**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+### **共青团清华大学建筑学院委员会 书记（清华大学建筑学院团委书记）**  
+**2024年8月 – 至今 | 清华大学**
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+### **清华大学建筑学院学生会 主席**  
+**2023年2月 – 2023年12月 | 清华大学**  
+
+### **清华大学建筑学院马克思主义学习研究协会 会长**  
+**2022年9月 – 2023年8月 | 清华大学**  
+
+### **杭州市规划设计研究院 城市设计、城市绿地规划实习生**  
+**2022年7月 – 2022年8月 | 杭州市规划设计研究院**  
+
+### **北京2022年冬季奥林匹克运动会 赛事服务助理**  
+**2022年1月 – 2022年2月 | 北京冬奥组委**  
+
+### **清华大学建筑学院规划景观0班 党课小组长、班长、班委**  
+**2020年9月 – 2022年7月 | 清华大学**  
