@@ -1,1 +1,1 @@
-- Feng, Y., Cao, Y.*, Chan, M. Y., Ye, Z., Zhao, Z., Yu, L., ... & Yang, R. (2025). Assessing ecosystem integrity in protected areas: A systematic review of methods and applications. Biological Conservation, 305, 111057.
+- Feng, Y., Cao, Y.*, Chan, M. Y., **Ye, Z.**, Zhao, Z., Yu, L., ... & Yang, R. (2025). Assessing ecosystem integrity in protected areas: A systematic review of methods and applications. **Biological Conservation**, 305, 111057.
