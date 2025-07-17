@@ -6,8 +6,6 @@ I'm currently pursuing a Doctor degree in Landscape Architecture at the Departme
 <code>yezq20@tsinghua.org.cn</code>  
 <code>yezq24@mails.tsinghua.edu.cn</code>
 
-<code>yezhangqian@qq.com</code>
-
 #### Education  
 **Tsinghua University**, Doctor in Landscape Architecture (2024 – 2029)  
 
