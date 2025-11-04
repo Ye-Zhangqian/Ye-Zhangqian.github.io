@@ -1,1 +1,2 @@
 - Feng, Y., Cao, Y.*, Chan, M. Y., **Ye, Z.**, Zhao, Z., Yu, L., ... & Yang, R. (2025). Assessing ecosystem integrity in protected areas: A systematic review of methods and applications. **Biological Conservation**, 305, 111057.
+- YE Zhangqian, CAO Yue*, KANG Ning, YANG Rui. Systematic Understanding and Implementation Strategies of the Public Health Value of China's Protected Areas. Chinese Landscape Architecture, 2025, 41(10): 49-56. (叶张骞，曹越*，康宁，杨锐.中国自然保护地公共健康价值的系统认知与实现策略.中国园林，2025，41(10)：49-56.)
